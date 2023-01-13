@@ -1,3 +1,42 @@
+# Config file (containing api keys and such)
+.config
+
+# Jupyter notebook
+*.ipynb
+
+# Data types
+*.csv
+*.xls
+*.xlsx
+*.xml
+*.json
+*.parquet
+*.feather
+
+.ignore/
+output/
+
+# Documentation is on internal server, not in repo
+docs/build/
+
+# Doc types
+*.txt
+*.pdf
+*.docx
+*.doc
+*.tex
+
+# Image types
+*.jpeg
+*.jpg
+*.yml
+
+# Logger
+*.log
+
+# Awesome mac
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +166,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Exceptions
+!docs/requirements.txt
+!twinnterface/datasets/data/*.csv
