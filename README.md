@@ -11,8 +11,6 @@ Twinnterface (Twinn Interface) is a Python package for *data contracts between m
 
 Author: [Royal HaskoningDHV](https://global.royalhaskoningdhv.com/)
 
-Email: [ruud.kassing@rhdhv.com](mailto:ruud.kassing@rhdhv.com)
-
 ## Getting started
 **COMING SOON!**
 
